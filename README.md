@@ -1,3 +1,8 @@
+# YouTube Ad Skipper
+
+A python script that detects youtube ad skip button and clicks it.
+
+
 ## How to use it
 
 1 - Create a python virtual environment using:
